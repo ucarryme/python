@@ -1,0 +1,32 @@
+# 发件人名字
+Sender_name = '俺'
+
+# 收件人名字
+Attn_name = '宝宝'
+
+# 邮件标题
+Subject = '亲亲宝宝~'
+
+# 发件方QQ邮箱
+Sender_mail = '1257212188@qq.com'
+
+# 接收方QQ邮箱,可以写多个        ['QQ邮箱账号']
+Receive_mail = ['343356942@qq.com','3410942134@qq.com']
+
+# QQ邮箱的授权码
+Authorization_code = 'bkmgfolhbssqiich'
+
+# 城市
+City = '昭通'
+
+# 在一起的时间         ''
+Together_time = '2022-10-13'
+
+# 女孩的生日时间
+Girl_bday = '2002-10-21'
+
+# 男孩的生日时间         '年-月-日'
+Boy_bday = '1997-11-10'
+
+# 设置每天发送邮件的时间   '小时-分钟'
+Send_time = '17-03'
